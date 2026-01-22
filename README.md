@@ -1,3 +1,8 @@
+
+<div align="center">
+  <video src="PASTE_THE_LINK_YOU_GOT_FROM_GITHUB_HERE" width="100%" controls></video>
+</div>
+<br>
 <div align="left">
   
   # 👋 Hi there, I'm  DEEGHAYU ARANDARA
@@ -12,21 +17,19 @@
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,arduino,html,css,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,arduino,html,css,ps,ai,matlab,react,mysql,figma" />
 </p>
 
 ---
-
-**NOTE:** Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DeeghayuA&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="DeeghayuA's Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&hide_border=true&theme=dark&rank_icon=percentile" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeghayuA&layout=donut&theme=dark&hide_border=true" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
@@ -38,10 +41,10 @@
   <table width="100%">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=[Your-GitHub-Username]&repo=[Your-Repo-Name-1]&show_icons=true&hide_border=true&theme=dark" alt="Your Project 1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeeghayuA&repo=my-app-ex&show_icons=true&hide_border=true&theme=dark" alt="my-app-ex" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=[Your-GitHub-Username]&repo=[Your-Repo-Name-2]&show_icons=true&hide_border=true&theme=dark" alt="Your Project 2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeeghayuA&repo=Form-template&show_icons=true&hide_border=true&theme=dark" alt="Form-template" />
       </td>
     </tr>
   </table>
