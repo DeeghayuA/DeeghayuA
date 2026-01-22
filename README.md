@@ -35,17 +35,4 @@
   </table>
 </div>
 
-<br>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeeghayuA&repo=my-app-ex&show_icons=true&hide_border=true&theme=dark" alt="my-app-ex" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeeghayuA&repo=Form-template&show_icons=true&hide_border=true&theme=dark" alt="Form-template" />
-      </td>
-    </tr>
-  </table>
-</div>
