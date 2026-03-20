@@ -17,8 +17,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # This generates both a light and dark mode SVG with your maroon theme!
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#000000&color_dots=#ebedf0,#93c5fd,#60a5fa,#3b82f6,#2563eb
-            dist/github-contribution-grid-snake-dark.svg?bg_color=#0d1117&color_snake=#38bdf8&color_dots=#0d1117,#082f49,#0369a1,#0ea5e9,#38bdf8
+            dist/github-contribution-grid-snake.svg?color_snake=#000000&color_dots=#ebedf0,#e1e4e8,#d1d5da,#959da5,#24292e
+            dist/github-contribution-grid-snake-dark.svg?bg_color=#0d1117&color_snake=#ffffff&color_dots=#0d1117,#21262d,#30363d,#8b949e,#ffffff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
