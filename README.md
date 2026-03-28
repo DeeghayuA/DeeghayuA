@@ -16,18 +16,21 @@
   </picture>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
-<h4 align="center">Development & Web</h4>
+<h4 align="center">Languages & Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,nextjs,react,html,css,mysql,vercel,github,idea,vscode&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nextjs&theme=dark" />
 </p>
 
-<h4 align="center">IoT & AI Stack</h4>
+<h4 align="center">Backend, Database & Cloud</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,supabase,raspberrypi,tensorflow,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,supabase,vercel&theme=dark" />
+</p>
+
+<h4 align="center">AI, Machine Learning & IoT</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,raspberrypi&theme=dark" />
   <br><br>
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
@@ -35,7 +38,14 @@
   <img src="https://img.shields.io/badge/DeepFace-000000?style=for-the-badge&logo=python&logoColor=white" alt="DeepFace">
 </p>
 
-<h4 align="center">Design & Editing</h4>
+<h4 align="center">Design & Creative Suite</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae&theme=dark" />
+</p>
+
+<h4 align="center">Development Tools & IDEs</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,idea&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
 </p>
