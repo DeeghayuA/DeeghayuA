@@ -7,13 +7,25 @@
   <a href="https://www.instagram.com/deeg.hayuarandara?igsh=ZGd0eTBxYXZ4OHBs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/share/17Xnxdkz8m/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
+
 ---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeeghayuA/DeeghayuA/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeeghayuA/DeeghayuA/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeeghayuA/DeeghayuA/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<h3 align="center">⚡ Power Levels & Streaks</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeghayuA&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=800000&text_color=white&v=1" alt="Language Power Levels" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeeghayuA&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=800000&fire=800000&currStreakNum=white&v=1" alt="GitHub Streak" />
 </div>
 
 <h3 align="center">Languages and Tools</h3>
