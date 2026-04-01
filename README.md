@@ -17,16 +17,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeeghayuA/DeeghayuA/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<h3 align="center">⚡ Power Levels & Streaks</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeghayuA&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=800000&text_color=white&v=1" alt="Language Power Levels" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeeghayuA&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=800000&fire=800000&currStreakNum=white&v=1" alt="GitHub Streak" />
-</div>
+>
 
 <h3 align="center">Languages and Tools</h3>
 
